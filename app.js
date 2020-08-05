@@ -34,10 +34,10 @@ const button = document.getElementsByTagName("button")
 let buttonLength = button.length;
 
 //ボタン4つ
-button[0].textContent = quiz[quizIndex].answers[0];
-button[1].textContent = quiz[quizIndex].answers[1];
-button[2].textContent = quiz[quizIndex].answers[2];
-button[3].textContent = quiz[quizIndex].answers[3];
+//button[0].textContent = quiz[quizIndex].answers[0];
+//button[1].textContent = quiz[quizIndex].answers[1];
+//button[2].textContent = quiz[quizIndex].answers[2];
+//button[3].textContent = quiz[quizIndex].answers[3];
 
 
 //クイズの問題
