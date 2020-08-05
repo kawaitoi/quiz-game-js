@@ -79,7 +79,7 @@ const clickHandler = (e) => {
         setupQuiz();
         
     }else{
-        window.alert("終わり!合計の正解数は"+ score　+ "問です！");
+        window.alert("お疲れさまでした!合計の正解数は"+ score　+ "問です！");
     }
 }
 
