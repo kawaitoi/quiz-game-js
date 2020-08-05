@@ -23,6 +23,16 @@ const quiz = [{
         "マサラタウン"
     ],
     correct: "千葉県"
+    
+},
+{
+    qustion:"コイキングの進化系は？",
+    answers: ["どらえもん",
+    "ギャラドス",
+    "グラードン",
+    "サーモン"
+    ],
+    correct: "ギャラドス"
 }];
 
 const quizLenght = quiz.length;
